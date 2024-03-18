@@ -1,0 +1,88 @@
+*
+{
+    font-size: 13px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+nav
+{
+display: flex;
+
+}
+img
+{
+   height:20px;
+
+}
+input
+{
+width: 540px;
+height:40px;
+border-radius: 24px;
+}
+button{
+    width:60px;
+    height:28px;
+    border-radius: 4px;
+
+}
+.img1
+{
+height:30px;
+width:92px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 567px) 
+{
+    *
+    {
+        font-size: 10px;
+        margin: 0%;
+        padding: 0%;
+
+    }
+    nav
+    {
+        display: flex;
+
+
+    }
+    img
+    {
+     15px;
+    }
+
+    button 
+{
+    width:50%;
+    height:50%;
+
+}
+input
+{
+    width:50%;
+    height:50%;
+}
+.img1
+{
+    width:50%;
+    height:50%;
+}
+}
