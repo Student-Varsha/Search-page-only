@@ -72,17 +72,30 @@ width:92px;
     button 
 {
     width:50%;
-    height:50%;
+    height:30%;
 
 }
 input
 {
     width:50%;
-    height:50%;
+    height:30%;
 }
 .img1
 {
-    width:50%;
-    height:50%;
+    width:50;
+    height:20;
 }
+.img4
+{
+    display: none;
+}
+.img5
+{
+    display: none;
+}
+.img6
+{
+    display: none;
+}
+
 }
